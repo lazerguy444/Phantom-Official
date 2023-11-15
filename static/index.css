@@ -110,12 +110,12 @@ form input {
     width: 350px;
     margin-top: 5px;
     border-radius: 50px;
-    color: white;
-    transition-duration: 0.4s;
+    color: red;
+    transition-duration: 0.8s;
 }
 
 form input:focus {
-    border: 1px solid white;
+    border: 1px solid red;
     border-radius: 6px;
     animation: fadeInAnimation ease-in-out 0.3s;
     animation-iteration-count: 1;
